@@ -1,7 +1,8 @@
 jte{
-    allow_scm_jenkinsfile = true
+    allow_scm_jenkinsfile = false
+    pipeline_template = "Jenkinsfile"
 }
+
 libraries{
     maven
-    // sonarqube
 }
