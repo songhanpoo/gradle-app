@@ -5,5 +5,5 @@ jte{
 
 libraries{
     maven
-    sonarqube
+    // sonarqube
 }
