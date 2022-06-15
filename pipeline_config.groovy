@@ -4,5 +4,4 @@ jte{
 
 @merge libraries{
     maven
-    // sonarqube
 }
