@@ -1,9 +1,9 @@
 jte{
-    allow_scm_jenkinsfile = false
+    allow_scm_jenkinsfile = true
     // pipeline_template = "governance"
 }
 
-@merge libraries{
+libraries{
     maven
-    // sonarqube
+    sonarqube
 }
