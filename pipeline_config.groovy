@@ -1,8 +1,8 @@
 jte{
-    allow_scm_jenkinsfile = true
+    allow_scm_jenkinsfile = false
 }
 
-libraries{
+@merge libraries{
     maven
-    sonarqube
+    // sonarqube
 }
