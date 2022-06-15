@@ -5,6 +5,6 @@ jte{
     // pipeline_template = "governance"
 }
 
-libraries{
+@merge libraries{
     maven
 }
