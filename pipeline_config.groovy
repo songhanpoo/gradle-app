@@ -5,6 +5,6 @@ jte{
     // reverse_library_resolution = true
 }
 
-@merge libraries{
+libraries{
     maven
 }
