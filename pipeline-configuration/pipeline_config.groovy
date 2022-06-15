@@ -3,7 +3,6 @@ jte{
     // pipeline_template = "governance"
 }
 
-@merge libraries{
+libraries{
     maven
-    // sonarqube
 }
